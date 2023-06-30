@@ -81,23 +81,23 @@ nav a:hover
     {
         0%
         {
-            background-image: url(/assets/bg2.jpg);
+            background-image: url(../assets/bg2.jpg);
         }
         25%
         {
-            background-image: url(/assets/bg3.jpg);
+            background-image: url(../assets/bg3.jpg);
         }
         50%
         {
-            background-image: url(/assets/bg4.jpg);
+            background-image: url(../assets/bg4.jpg);
         }
         75%
         {
-            background-image: url(/assets/bg5.jpg);
+            background-image: url(../assets/bg5.jpg);
         }
         100%
         {
-            background-image: url(/assets/bg6.jpg);
+            background-image: url(../assets/bg6.jpg);
         }
     }
 
@@ -186,22 +186,22 @@ nav a:hover
 }
 .car_1
 {
-    background-image: url(/assets/rizvi\ sir.jpg);
+    background-image: url(../assets/rizvi\ sir.jpg);
     background-size: cover;
 }
 .car_2
 {
-    background-image: url(/assets/anushka\ di.jpeg);
+    background-image: url(../assets/anushka\ di.jpeg);
     background-size: cover;
 }
 .car_3
 {
-    background-image: url(/assets/nikhil\ bhiya.jpeg);
+    background-image: url(../assets/nikhil\ bhiya.jpeg);
     background-size: cover;
 }
 .car_4
 {
-    background-image: url(/assets/sharad\ bhiya.jpg);
+    background-image: url(../assets/sharad\ bhiya.jpg);
     background-size: cover;
 }
 .card h2
